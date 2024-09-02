@@ -1,0 +1,61 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "iPhone 9",
+        "price": " 159900",
+        "originalprice": " $1199",
+        "discount": "10% off",
+        "description": "An apple mobile which is nothing like apple",
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": ["./image/sm/iPhone 9.png"]
+      },
+      {
+        "id": 2,
+        "title": "iPhone X",
+        "price": " 134900",
+        "discount": "30% off",
+        "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+        "originalprice": " $999",
+        "brand": "Apple",
+        "category": "smartphones",
+  
+        "images": ["./image/sm/iPhone X.png"]
+      },
+      {
+        "id": 3,
+        "title": "Samsung Universe 9",
+        "price": " 89900",
+        "discount": "40% off",
+        "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+        "originalprice": " $899",
+        "discountPercentage": 15.46,
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": ["./image/sm/Samsung Universe 9.png"]
+      },
+      {
+        "id": 4,
+        "title": "OPPOF19",
+        "price": " 79900",
+        "discount": "44% off",
+        "description": "OPPO F19 is officially announced on April 2021.",
+        "originalprice": " $799",
+        "brand": "Apple",
+        "category": "smartphones",
+        "images": ["./image/sm/OPPOF19.png"]
+      },
+      {
+        "id": 5,
+        "title": "Huawei P30",
+        "price": " 112900",
+        "discount": "5% off",
+        "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+        "originalprice": " $1099",
+        "brand": "Apple",
+        "category": "ipad",
+        "images": ["./image/sm/Huawei P30.png"]
+      }
+    ]
+  }
