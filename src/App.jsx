@@ -1,6 +1,6 @@
 import "./App.css";
 import Cart from "./components/Cart";
-import Dashboard from "./components/Dashboard";
+import Products from "./components/Products";
 import RootLayout from "./components/RootLayout";
 import Footer from "./components/Footer"
 import "bootstrap/dist/css/bootstrap.min.css"
@@ -18,7 +18,7 @@ function App() {
     createRoutesFromElements(
       
       <Route path="/" element={<RootLayout />}>
-        <Route index element={<Dashboard />}></Route>
+        <Route index element={<Products />}></Route>
         <Route path="/cart" element={<Cart />}></Route>
         
       </Route>
